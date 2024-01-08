@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# <h3><b>194044D - Assignment 01</b></h3>
-
 # <h1><b>Data Extraction - Single Page</b></h1>
 
 # In[1]:
